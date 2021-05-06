@@ -1,4 +1,4 @@
-Hi, i'm Kurisu Amatist.
+Hi, i'm Amatist Kurisu.
 
 <!--
 **Kuri-su/Kuri-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
